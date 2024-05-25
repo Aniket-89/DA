@@ -51,7 +51,7 @@ DATABASES = {
         "ENGINE": "django.db.backends.postgresql",
         "NAME": "drone_anatomy",
         "USER": "postgres",
-        "PASSWORD": "testpass@123",
+        "PASSWORD": "Testpass@123",
         "HOST": "localhost",
         "PORT": "5432",
     },
